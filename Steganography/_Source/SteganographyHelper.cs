@@ -10,7 +10,7 @@ namespace Magikarp.Utility.Steganography
     /// </summary>
     /// <remarks>
     /// Author: 黃竣祥
-    /// Version: 20170904
+    /// Version: 20170922
     /// </remarks>
     public class SteganographyHelper
     {
@@ -22,7 +22,7 @@ namespace Magikarp.Utility.Steganography
         /// </summary>
         /// <remarks>
         /// Author: 黃竣祥
-        /// Time: 2017/09/04
+        /// Time: 2017/09/22
         /// History: N/A
         /// DB Object: N/A      
         /// </remarks>
@@ -44,7 +44,7 @@ namespace Magikarp.Utility.Steganography
         /// <returns>已內嵌資訊的圖片物件。</returns>
         /// <remarks>
         /// Author: 黃竣祥
-        /// Time: 2017/09/04
+        /// Time: 2017/09/22
         /// History: N/A
         /// DB Object: N/A      
         /// </remarks>
@@ -170,7 +170,7 @@ namespace Magikarp.Utility.Steganography
         /// <returns>資訊。</returns>
         /// <remarks>
         /// Author: 黃竣祥
-        /// Time: 2017/09/04
+        /// Time: 2017/09/22
         /// History: N/A
         /// DB Object: N/A      
         /// </remarks>
@@ -256,7 +256,7 @@ namespace Magikarp.Utility.Steganography
         /// <returns>反向排序後的數字。</returns>
         /// <remarks>
         /// Author: 黃竣祥
-        /// Time: 2017/09/04
+        /// Time: 2017/09/22
         /// History: N/A
         /// DB Object: N/A      
         /// </remarks>

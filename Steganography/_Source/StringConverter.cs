@@ -5,7 +5,7 @@
     /// </summary>
     /// <remarks>
     /// Author: 黃竣祥
-    /// Version: 20170904
+    /// Version: 20170922
     /// </remarks>
     public class StringConverter
     {
@@ -18,7 +18,7 @@
         /// <returns>轉換後字串。</returns>
         /// <remarks>
         /// Author: 黃竣祥
-        /// Time: 2017/09/04
+        /// Time: 2017/09/22
         /// History: N/A
         /// DB Object: N/A      
         /// </remarks>
@@ -34,7 +34,7 @@
         /// <returns>轉換後位元組。</returns>
         /// <remarks>
         /// Author: 黃竣祥
-        /// Time: 2017/09/04
+        /// Time: 2017/09/22
         /// History: N/A
         /// DB Object: N/A      
         /// </remarks>
