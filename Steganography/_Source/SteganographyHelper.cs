@@ -10,7 +10,7 @@ namespace Magikarp.Utility.Steganography
     /// </summary>
     /// <remarks>
     /// Author: 黃竣祥
-    /// Version: 20170922
+    /// Version: 20171023
     /// </remarks>
     public class SteganographyHelper
     {
@@ -171,10 +171,11 @@ namespace Magikarp.Utility.Steganography
         /// <remarks>
         /// Author: 黃竣祥
         /// Time: 2017/09/22
-        /// History: N/A
+        /// History: 
+        ///     修正距陣索引錯誤。(黃竣祥 2017/10/23)
         /// DB Object: N/A      
         /// </remarks>
-        public static byte[] ExtractInfo<TInfo>(Bitmap bmp)where TInfo:new()
+        public static byte[] ExtractInfo<TInfo>(Bitmap bmp) where TInfo : new()
         {
             int colorUnitIndex = 0;
             int charValue = 0;
@@ -236,7 +237,7 @@ namespace Magikarp.Utility.Steganography
 
                             // add the current character to the result text
                             Array.Resize(ref objReturn, objReturn.Length + 1);
-                            objReturn[objReturn.Length] = (byte)charValue;
+                            objReturn[objReturn.Length - 1] = (byte)charValue;
                         }
                     }
                 }

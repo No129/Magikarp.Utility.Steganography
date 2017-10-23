@@ -1,5 +1,5 @@
 C:\_TOHU\Workspace\Magikarp\_Shared\Magikarp\Magikarp.Utility.Steganography.dll
 C:\_TOHU\Workspace\Magikarp\_Shared\Magikarp\Magikarp.Utility.Steganography.pdb
-C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.Steganography\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.Steganography\Steganography\obj\Debug\Magikarp.Utility.Steganography.dll
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.Steganography\Steganography\obj\Debug\Magikarp.Utility.Steganography.pdb
+C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.Steganography\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
